@@ -14,9 +14,6 @@
 
 새로운 기술과 도전을 시도하고 있으며, 지금은 JPA와 Node.js와 같은 다양한 백엔드 기술에 대해 관심을 가지고 있으며 공부할 계획입니다.
 
-
-알고리즘 문제 해결 능력을 키우기 위해 문제풀이 사이트에서 [알고리즘 문제풀이](https://github.com/Employment-Study/Algorithm_Study/tree/LeeBG)도 조금씩 풀고 있습니다.
-
 더 나은 개발자가 되기위해 열심히 배우고 있습니다.
 꾸준히 노력하여 좋은 개발자가 되겠습니다.
 
@@ -39,8 +36,6 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/jsp-DF7401?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -53,13 +48,9 @@
 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
 </div>
 
@@ -79,12 +70,10 @@
 
 <img src="https://img.shields.io/badge/Apache NetBeans IDE-1B6AC6?style=for-the-badge&logo=apacheNetBeansIDE&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-
 </div>
 
 <br/>
 <br/>
 <br/>
 
-![LeeBG's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeBG&show_icons=true&theme=radical)
+![LeeBG's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiyuran&show_icons=true&theme=radical)
