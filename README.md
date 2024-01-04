@@ -7,7 +7,7 @@
 🌱저는 **백엔드 개발**에 대한 열정을 가진 신입 개발자입니다.
 
 현재 [JPA에 대한 그룹 스터디](https://github.com/choiyuran/Study_JPA)를 마치고, 
-이제는 [LMS를 주제로 한 팀 프로젝트](https://github.com/choiyuran/Study_JPA)를 진행 중입니다.<br> 이 프로젝트에서 저는 PM 역할을 맡아, 팀원들과 함께 목표를 달성하기 위해 노력하고 있습니다.
+이제는 [LMS를 주제로 한 팀 프로젝트](https://github.com/choiyuran/Simple_LMS)를 진행 중입니다.<br> 이 프로젝트에서 저는 PM 역할을 맡아, 팀원들과 함께 목표를 달성하기 위해 노력하고 있습니다.
 
 가장 최근에 참여한 프로젝트는
 <a href="https://github.com/Project-japlus/camping" target="_blank">캠핑장 예약 사이트</a> 
