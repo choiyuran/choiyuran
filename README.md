@@ -4,7 +4,7 @@
 <a href="https://mail.naver.com/" target="_blank"><img src="https://img.shields.io/badge/dywjd3355v@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
-저는 **백엔드 개발**에 대한 열정을 가진 신입 개발자입니다. 🌱
+저는 **백엔드 개발**에 대한 열정을 가진 신입 개발자입니다! 🌱
 
 제가 첫 프로젝트로 참여했던
 <a href="https://github.com/Project-japlus/camping" target="_blank">캠핑장 예약 사이트</a> 
