@@ -4,20 +4,19 @@
 <a href="https://mail.naver.com/" target="_blank"><img src="https://img.shields.io/badge/dywjd3355v@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
-저는 **백엔드 개발**에 대한 열정을 가진 신입 개발자입니다. 🌱
+저는 **백엔드 개발** 신입 개발자입니다. 🌱
 
-제가 첫 프로젝트로 참여했던
-<a href="https://github.com/Project-japlus/camping" target="_blank">캠핑장 예약 사이트</a> 
-개발은 저에게 소중한 경험을 제공했습니다.<br> 이 프로젝트를 통해 실제 서비스 개발 및 운영 과정을 경험하며, 개발자로서의 역량을 키워나갈 수 있었습니다.
+제 첫 프로젝트 경험은
+<a href="https://github.com/Project-japlus/camping" target="_blank">캠핑장 예약 사이트</a> 개발이었습니다.
+이 프로젝트는 실제 서비스를 만들고, 운영해보면서 개발자로서 한 발짝 나아갈 수 있는 소중한 경험이었습니다.<br>
 
-현재는 [JPA에 대한 그룹 스터디](https://github.com/choiyuran/Study_JPA)를 성공적으로 마무리하고, 
-[LMS를 주제로 한 팀 프로젝트](https://github.com/choiyuran/Simple_LMS)를 진행 중입니다.
-<br> 이 프로젝트에서 제가 맡은 역할은 PM입니다. 팀원들과 공동의 목표를 달성하기 위해 노력하며, 이 과정에서 리더로서의 능력도 함께 성장하고 있습니다.
+이어서 JPA와 QueryDSL을 습득하기 위한 [JPA에 대한 그룹 스터디](https://github.com/choiyuran/Study_JPA)에 참여했습니다. 스터디 그룹 멤버들과 함께 학습하면서 얻은 지식을 나누고, 함께 성장하는 과정이 저에게 큰 도움이 되었습니다.<br> 
 
-새로운 기술에 대한 궁금증과 배우는 것에 대한 열정이 저를 계속해서 성장시키는 원동력이 되고 있습니다.
+최근에는 학사관리 시스템인 [LMS 팀 프로젝트](https://github.com/choiyuran/Simple_LMS)를 마무리했습니다.
+<br> 프로젝트에서 PM 역할을 맡아 팀원들과 함께 목표를 향해 나아가는 과정에서 소통의 중요성, 팀으로 함께 성장하는 방법, 책임감과 같은 많은 것들을 배웠습니다.
 
-저는 이런 끊임없는 노력을 통해 더 능력 있는 개발자로 성장해 나갈 것이라고 믿습니다.<br> 
-저의 여정에 동참해주신다면 최선을 다해 열심히 노력하겠습니다. 많은 관심 부탁드립니다. 🙏
+새로운 것을 배우려는 열정이 저를 계속해서 성장하게 만들고, 이런 끊임없는 노력을 통해 저는 더 좋은 개발자가 될 거라고 믿습니다.
+저와 함께 해주신다면 열심히 하겠습니다. 많은 관심 부탁드립니다. 🙏<br> 
 
 읽어주셔서 감사합니다!
 
