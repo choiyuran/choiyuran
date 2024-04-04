@@ -1,10 +1,8 @@
-## 
-
+ 
 <a href="https://dandelion-talos-481.notion.site/91c19a6fee2f4f6e8cc3f39da8e1a970?pvs=4" target="_blank"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://mail.naver.com/" target="_blank"><img src="https://img.shields.io/badge/dywjd3355v@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-안녕하세요!
-저는 **백엔드 개발** 신입 개발자 최유란입니다. 🌱
+## 안녕하세요! 저는 **백엔드** 신입 개발자 최유란입니다. 🌱
 
 제 첫 프로젝트 경험은
 <a href="https://github.com/Project-japlus/camping" target="_blank">캠핑장 예약 사이트</a> 개발이었습니다. 🏕️
