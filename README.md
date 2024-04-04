@@ -5,7 +5,7 @@
 ## 안녕하세요! **백엔드** 신입 개발자 최유란입니다. 👩‍💻
 
 제 첫 프로젝트 경험은
-<a href="https://github.com/Project-japlus/camping" target="_blank">캠핑장 예약 사이트</a> 개발이었습니다. 🏕️
+<a href="https://github.com/Project-japlus/camping" target="_blank">캠핑장 예약 사이트</a> 개발이었습니다. 🏕️<br>
 이 프로젝트는 실제 서비스를 만들고, 운영해보면서 개발자로서 한 발짝 나아갈 수 있는 소중한 경험이었습니다.<br>
 
 이어서 JPA와 QueryDSL을 습득하기 위한 [JPA에 대한 그룹 스터디](https://github.com/choiyuran/Study_JPA)에 참여했습니다. 스터디 그룹 멤버들과 함께 학습하면서 얻은 지식을 나누고, 함께 성장하는 과정이 저에게 큰 도움이 되었습니다.<br> 
