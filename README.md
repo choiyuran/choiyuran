@@ -75,4 +75,3 @@
 <br/>
 <br/>
 
-![LeeBG's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiyuran&show_icons=true&theme=radical)
